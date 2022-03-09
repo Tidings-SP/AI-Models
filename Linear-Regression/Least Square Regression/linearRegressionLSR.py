@@ -60,3 +60,5 @@ print("Twenty Years experiance of salary will get salary of: ",predict(20, b))
 print("================================")
 # plotting regression line
 plot_regression(x, y, b)
+
+# Code written by SuryaPrakash
