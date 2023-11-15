@@ -5,19 +5,18 @@
 ---
 
 ## Cross deviation and deviation about X:
+![deviation](https://github.com/Tidings-SP/AI-Models/assets/76809211/1e230ded-1640-498b-bdf3-8aaf49ac1600)
 
-![](https://github.com/Tidings-SP/AI-Models/blob/main/temp/deviation.PNG)
 
 ## Regression Coefficients(calculating value of m(b1) and c(b0)):
+![coefficent](https://github.com/Tidings-SP/AI-Models/assets/76809211/470bf6ef-2f9b-4fd9-903e-01094991664b)
 
-![](https://github.com/Tidings-SP/AI-Models/blob/main/temp/coefficent.PNG)
 
 ## Prediction Output:
-
-![](https://github.com/Tidings-SP/AI-Models/blob/main/temp/outpred.PNG)
+![outpred](https://github.com/Tidings-SP/AI-Models/assets/76809211/cfcb20b6-8d34-4c2f-8eff-04e678ee369a)
 
 ## Regression line
+![reggline](https://github.com/Tidings-SP/AI-Models/assets/76809211/35226656-49bb-468a-9a7f-44b92e207bbb)
 
-![](https://github.com/Tidings-SP/AI-Models/blob/main/temp/reggline.png)
 
 ### These regression line plot between the Year of Experience on x and Salary on y!...
